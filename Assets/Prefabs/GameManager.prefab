@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6271151381441489286
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6271151381441489284}
+  - component: {fileID: 6271151381441489285}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6271151381441489284
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6271151381441489286}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1508.6934, y: -1143.3998, z: 486.18906}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6271151381441489285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6271151381441489286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89330c55d2c674c449c82a003f678459, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Skins:
+  - {fileID: 7288100247294314308, guid: 78e1d69575cc3724e9ca34e4f3e4f072, type: 3}
+  - {fileID: 5450771528114672105, guid: fba9ace826e68e54db09c5e6c5260b41, type: 3}
+  - {fileID: 2623264904427179733, guid: db9141f98b9ceb34796c88914aaf9ccc, type: 3}
+  - {fileID: 3012257203127781644, guid: 50976f9dd931223448b4ee2aaf8e50c8, type: 3}
+  - {fileID: 3155828152369351142, guid: e17d68d75a0c84b4a840f98910af7f78, type: 3}
+  - {fileID: 5173234411697692576, guid: 7a0751ee9c10c434787d3f00da12a177, type: 3}
+  coinsText: {fileID: 0}
+  people:
+  - {fileID: 2761235317516053229, guid: 1ee76a8e9fe162b4883c65c824a0939e, type: 3}
+  - {fileID: 2761235317516053229, guid: 91227762dcc907849b1171ce7edee039, type: 3}
+  - {fileID: 2761235317516053229, guid: f7288751274536d48b758a6c757d4c56, type: 3}
+  - {fileID: 2761235317516053229, guid: 629b82319eeadcc44be14a5f5d6af3df, type: 3}
+  - {fileID: 2761235317516053229, guid: 14a99fa6b6d8410409126cde234d085c, type: 3}
+  - {fileID: 979083536062896723, guid: a4f5f9c3051bea4419bcb37d5a077d92, type: 3}
+  cameraHuman: {fileID: 5215634062116300624, guid: dc2be7b7e723b7f459cf6ca6e5874e14, type: 3}
+  HookUpHint: []

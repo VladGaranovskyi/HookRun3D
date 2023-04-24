@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2185952569437925930
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1776145547341335278, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_TagString
+      value: Death
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145547431411638, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_TagString
+      value: Death
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145548315805618, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_TagString
+      value: Death
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145548315805621, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145548505090460, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_TagString
+      value: Death
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145548599202825, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145548599202870, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_TagString
+      value: Death
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702381, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_Name
+      value: AXE Human
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.59020615
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 17.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.0854225
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549195702382, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549384100553, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1776145549384100598, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: m_TagString
+      value: Death
+      objectReference: {fileID: 0}
+    - target: {fileID: 6526946629153639077, guid: d87874f66829db74b9a436379ba16e12, type: 3}
+      propertyPath: speed
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d87874f66829db74b9a436379ba16e12, type: 3}
