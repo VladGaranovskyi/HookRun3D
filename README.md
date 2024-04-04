@@ -6,7 +6,9 @@ Have fun!
 Download or clone this repository. Use Unity 2020.3.15f2 version or higher. Unity should automatically download every extension.
 
 ## Links
-![Web](https://ezzzz4.itch.io/hook-run-3d)
+<a href="https://ezzzz4.itch.io/hook-run-3d">Web Version</a>
+<a href="https://play.google.com/store/apps/details?id=com.Ezzzz4.HookRun3D">Google Play Version</a>
+
 
 Here are the screenshots:
 
